@@ -1,0 +1,30 @@
+[
+    {
+        "firstName":"Aditi" ,
+        "lastName" : "Dhumal",
+        "emailId" : "aditi.dhumal@cumminscollege.in",
+        "password" : "aditi123"
+
+
+    },
+    {
+        "firstName":"Akanksha" ,
+        "lastName" : "Dhage",
+        "emailId" : "akanksha.dhage@cumminscollege.in",
+        "password" : "akanksha123"
+    },
+    {
+        "firstName":"Chinmayi" ,
+        "lastName" : "Adsul",
+        "emailId" : "chinmayi.adsul@cumminscollege.in",
+        "password" : "chinmayi123"
+    },
+    {
+        "firstName":"Roshani" ,
+        "lastName" : "Bhojane",
+        "emailId" : "roshani.bhojane@cumminscollege.in",
+        "password" : "roshani123"
+    }
+
+
+]

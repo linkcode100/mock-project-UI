@@ -1,0 +1,21 @@
+<div class="container">
+    <h1>
+        Fetching all the user details
+    </h1>
+    <table>
+        <thead>
+            <th> First Name </th>
+            <th> Last Name </th>
+            <th> Email </th>
+            <th> Password </th>
+        </thead>
+        <tbody>
+            <tr *ngFor="let user of users">
+                <td> {{user.firstName}} </td>
+                <td> {{user.lastName}} </td>
+                <td> {{user.emailId}} </td>
+                <td> {{user.password}} </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
